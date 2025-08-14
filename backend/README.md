@@ -55,7 +55,7 @@ backend/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/widget-backend.git
+git clone https://github.com/TomCW1100/WeatherApp.git
 cd backend
 ```
 
