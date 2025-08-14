@@ -61,8 +61,8 @@ Project Structurefrontend/
 │  ├─ index.tsx                 # Home page / Widget creation
 │  ├─ _app.tsx                  # entry Point
 │  ├─ widgets/
-│  │  ├─ page.tsx               # Widget dashboard
-│  │  └─ [id]/page.tsx          # Widget details page
+│  │  ├─ index.tsx              # Widget dashboard
+│  │  └─ [id].tsx               # Widget details page
 ├─ types/
 │  └─ weather.d.ts              # Weather TypeScript type
 │  └─ widget.d.ts               # Widget TypeScript type
